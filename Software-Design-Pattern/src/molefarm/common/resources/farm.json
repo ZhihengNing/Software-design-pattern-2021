@@ -1,0 +1,32 @@
+{
+  "farm": {
+    "crops": [
+      "Cabbage",
+      "Eggplant",
+      "Rice",
+      "Strawberry",
+      "Watermelon",
+      "Wheat"
+    ],
+    "seed": [
+      "CabbageSeed",
+      "EggplantSeed",
+      "RiceSeed",
+      "StrawberrySeed",
+      "WatermelonSeed",
+      "WheatSeed"
+    ],
+    "farmTool": [
+      "Shovel",
+      "Hoe",
+      "Pesticide",
+      "Sickle",
+      "WateringCan"
+    ],
+    "fertilizer": [
+      "AdvancedFertilizer",
+      "MiddleFertilizer",
+      "PrimaryFertilizer"
+    ]
+  }
+}

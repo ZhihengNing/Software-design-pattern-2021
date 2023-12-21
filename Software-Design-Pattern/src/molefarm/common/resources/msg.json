@@ -1,0 +1,12 @@
+{
+  "factory": {
+    "conc": {
+      "CropsFactory": "没有该作物销售噢",
+      "FertilizerFactory": "没有该肥料销售噢",
+      "SeedFactory":  "没有该种子销售噢",
+      "ToolFactory": "没有该工具销售噢"
+    }
+  },
+  "FarmProductFactory": "对应的产品尚未加入摩尔庄园,敬请期待......",
+  "IFactory": "对应的工厂尚未加入摩尔庄园,敬请期待......"
+}

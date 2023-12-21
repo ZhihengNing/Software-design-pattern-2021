@@ -1,0 +1,12 @@
+{
+  "clothes":{
+    "upperClothes": [
+      "Tshirt",
+      "Jackets"
+    ],
+    "pants": [
+      "Jeans",
+      "Shorts"
+    ]
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "IFactory": "molefarm.pattern.abstractFactory.conc.",
+  "factory": {
+    "conc": {
+      "CropsFactory": "molefarm.common.product.crops.",
+      "FertilizerFactory": "molefarm.common.product.fertilizer.",
+      "SeedFactory": "molefarm.common.product.seed.",
+      "ToolFactory": "molefarm.common.product.tool."
+    }
+  }
+}

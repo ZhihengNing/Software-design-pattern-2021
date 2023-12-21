@@ -1,0 +1,36 @@
+{
+  "Seed": {
+    "白菜种子": "CabbageSeed",
+    "茄子种子": "EggplantSeed",
+    "水稻种子": "RiceSeed",
+    "草莓种子": "StrawberrySeed",
+    "西瓜种子": "WatermelonSeed",
+    "小麦种子": "WheatSeed",
+    "白菜": "CabbageSeed",
+    "茄子": "EggplantSeed",
+    "水稻": "RiceSeed",
+    "草莓": "StrawberrySeed",
+    "西瓜": "WatermelonSeed",
+    "小麦": "WheatSeed"
+  },
+  "Crops": {
+    "白菜": "Cabbage",
+    "茄子": "Eggplant",
+    "水稻": "Rice",
+    "西瓜": "Watermelon",
+    "小麦": "Wheat",
+    "草莓": "Strawberry"
+  },
+  "Fertilizer": {
+    "高级肥料": "AdvancedFertilizer",
+    "中级肥料": "MiddleFertilizer",
+    "初级肥料": "PrimaryFertilizer"
+  },
+  "Tool": {
+    "锄头": "Hoe",
+    "农药": "Pesticide",
+    "铲子": "Shovel",
+    "镰刀": "Sickle",
+    "浇水壶": "WateringCan"
+  }
+}
